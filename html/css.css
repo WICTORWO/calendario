@@ -1,8 +1,18 @@
-h1:hover{
-    background-color: black;
-    color: chartreuse;
+*{
+    padding: 0;
+    border: 0;
+    background-color: cornsilk;
 }
-h1{
-    background-color:red;
-    color: rgb(17, 0, 255);
+
+.dias{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 20px;
+    margin-right: 10px;
+    text-align: center;
+    
+}
+.mes{
+    text-align: center;
+    font-size: 40px;
 }
